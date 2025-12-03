@@ -1,2 +1,5 @@
-# micromouse_2nd_path_calc_in_Python
+# micromouse_sim_2025
 マイクロマウスの最短経路導出アルゴリズムのデモ(Python)
+
+## アルゴリズム
+壁情報を渡したときの最短経路をダイクストラ法により実装した．
